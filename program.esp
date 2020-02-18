@@ -1,0 +1,3 @@
+read p
+read q
+print p+q
